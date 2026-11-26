@@ -6,11 +6,11 @@ Treinos personalizados, acompanhamento corporal e evolução contínua em um só
 
 ## Baixar para Android
 
-[![Baixar Pulse para Android](https://img.shields.io/badge/BAIXAR%20PULSE-ANDROID-FF5A1F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/gevrod/pulse-android/releases/download/v0.19.3-beta/Pulse.apk)
+[![Baixar Pulse para Android](https://img.shields.io/badge/BAIXAR%20PULSE-ANDROID-FF5A1F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/gevrod/pulse-android/releases/download/v0.20.0-beta/Pulse.apk)
 
-**Versão disponível: 0.19.3 Beta** · APK · 20,5 MB
+**Versão disponível: 0.20.0 Beta** · APK · 20,5 MB
 
-[Notas da versão](https://github.com/gevrod/pulse-android/releases/tag/v0.19.3-beta) · [Todas as versões](https://github.com/gevrod/pulse-android/releases)
+[Notas da versão](https://github.com/gevrod/pulse-android/releases/tag/v0.20.0-beta) · [Todas as versões](https://github.com/gevrod/pulse-android/releases)
 
 Esta é uma versão beta. Algumas funcionalidades e animações ainda estão em desenvolvimento.
 
